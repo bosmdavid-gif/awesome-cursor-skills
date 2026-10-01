@@ -93,6 +93,7 @@ Skills that harness Cursor's unique agent capabilities — things only an AI ins
 - [`setting-up-terraform`](resources/setting-up-terraform/SKILL.md) - Infrastructure-as-code with provider config, modules, remote state, and CI integration.
 - [`antonbabenko-terraform`](https://github.com/antonbabenko/terraform-skill) - Terraform and OpenTofu skill — testing, modules, CI/CD, and production patterns.
 - [`kubernetes-deploying`](resources/kubernetes-deploying/SKILL.md) - Deploy to Kubernetes — Deployments, Services, Ingress, ConfigMaps, health checks, and autoscaling.
+- [`dropthehassle-publish`](https://github.com/bosmdavid-gif/dropthehassle-skill/tree/main/skills/dropthehassle-publish) - Publish a finished static site to a free HTTPS link with DropTheHassle, check that it is live, and find a free domain without spending money.
 
 ### Code Quality & Security
 
